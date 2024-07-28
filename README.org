@@ -1,0 +1,9 @@
+* geonames
+
+GeoNames API Client for Common Lisp
+
+|---------+------------------------------------------------------------------------|
+| source  | file:https://github.com/Junker/geonames/archive/refs/tags/0.1.0.tar.gz |
+| version | 0.1.0                                                                  |
+| systems | geonames                                                               |
+|---------+------------------------------------------------------------------------|
