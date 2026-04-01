@@ -7,3 +7,4 @@ GeoNames API Client for Common Lisp
 | version | 0.1.0                                                                  |
 | systems | geonames                                                               |
 |---------+------------------------------------------------------------------------|
+ 
